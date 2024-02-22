@@ -1,0 +1,5 @@
+Added the shoot sound to the gun when you press space
+
+added my loop chairlift sound to the back barrier 
+
+added the ambient always playing sound to the floor and made it a 2d sound so it plays everywhere
